@@ -1,3 +1,9 @@
-html {
-  background-color: rgb(218, 167, 167);
+html{
+}
+ h1{background-color: rgb(255, 255, 255);
+}
+h1{
+  border: 8px solid black
+}
+p.b{font-style: normal
 }
